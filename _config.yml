@@ -1,0 +1,28 @@
+name: IDI Test
+favicon: null
+layout_spectrum: 0.6207321777474135
+typography_spectrum: 0.9868333428166807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7456831627059728
+  lightness: 0.913665899541229
+  saturation: 0.5990037224255502
+  rhythmicContrast: 0.20376151707023382
+purpose: []
