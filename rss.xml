@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[IDI Test]]></title>
         <description><![CDATA[IDI Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/idi-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 10:07:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jul 2016 09:04:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/idi-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[MONGOLIA FIXERS]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/005ccbbc-b33f-42b8-a48a-bd557b842fa8.jpg">]]></description>
-            <link>undefinedthank-you-for-bringing-your-project-to-mongolia-whether-yo/index.html</link>
+            <link>https://thegrid.ai/idi-test/thank-you-for-bringing-your-project-to-mongolia-whether-yo/index.html</link>
             <guid isPermaLink="false">0b270e28-7bce-40f5-8364-6f2d5a57bbb8</guid>
-            <pubDate>Tue, 15 Mar 2016 10:07:58 GMT</pubDate>
+            <pubDate>Sat, 02 Jul 2016 09:03:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
